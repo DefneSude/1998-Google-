@@ -1,0 +1,24 @@
+.navbar{
+    width: 90%;
+    height: 20%;
+    margin: 0 auto 0 ;
+    background-color: #EEEEEE;
+    
+}
+
+#kutubir{ 
+    width: 33%; background-color: #7EE5DA ; 
+     height: 79px; margin: 5px 2px 0 5%;
+}
+
+#kutuiki{
+    background-color: #70CCC2; width: 20%; height: 79px; margin: 0; padding: 0%; 
+    margin: 0 auto;margin: 5px auto;
+    
+    margin-left: auto; margin-right: 2px; font-size: -1;
+}
+
+#kutuuc{
+    background-color: #62b3aa; margin: 5px 2px auto auto; width:565px; height: 79px;
+}
+
