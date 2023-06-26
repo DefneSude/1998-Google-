@@ -1,2 +1,2 @@
 # 1998-Google-
-##HTML and CSS codes of Google 1998.
+HTML and CSS codes of Google 1998.
